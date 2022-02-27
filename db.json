@@ -1,23 +1,20 @@
 [
   {
-    "id" : 3,
-    "title" : "Flowey",
-    "content" : "only 5 inches",
-    "price" : 120000,
+    "title" : "단화",
+    "content" : "검흰 조합에 한 줄 포인트",
+    "price" : 30000,
     "image" : "https://heejaeking.github.io/shoes0.jpg"
   },
   {
-    "id" : 4,
-    "title" : "Baby shoes",
-    "content" : "for less than 6",
-    "price" : 120000,
-    "image" : "https://heejaeking.github.io/shoes1.jpg"
+    "title" : "런닝화",
+    "content" : "깔끔한 디자인에 에어쿠션",
+    "price" : 62000,
+    "image" : "https://heejaeking.github.io/shoes2.jpg"
   },
   {
-    "id" : 5,
-    "title" : "Red Herring",
-    "content" : "Born in France",
-    "price" : 120000,
-    "image" : "https://heejaeking.github.io/shoes2.jpg"
+    "title" : "운동화",
+    "content" : "분홍분홍하고 가벼운 신발",
+    "price" : 35000,
+    "image" : "https://heejaeking.github.io/shoes1.jpg"
   }
 ]
